@@ -6,7 +6,7 @@
 
 ## Roadmap
 
-- Grammar and Types
+- Grammar and Types 
 	- [ ] Declarations
 		- [ ] var
 		- [ ] let
