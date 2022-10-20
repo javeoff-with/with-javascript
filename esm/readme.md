@@ -1,3 +1,81 @@
+# With Javascript
+
 - https://nodejs.org/docs/latest/api/esm.html#esm_differences_between_es_modules_and_commonjs
 - difference mjs, cjs
-	- https://stackoverflow.com/questions/57492546/what-is-the-difference-between-js-and-mjs-files 
+    - https://stackoverflow.com/questions/57492546/what-is-the-difference-between-js-and-mjs-files 
+
+## Roadmap
+
+- Grammar and Types
+	- [ ] Declarations
+		- [ ] var
+		- [ ] let
+		- [ ] const
+		- [ ] Variables
+		- [ ] Declaring variables
+		- [ ] Evaluating variables
+		- [ ] Variable scope
+		- [ ] Variable hoisting
+- Control flow and error handling
+	- [ ] Block statement
+	- [ ] Conditional Statements
+		- [ ] `if...else` statement
+		- [ ] `switch/case` statement
+		- [ ] ~~Exception handling statements~~
+- Loops and iteration
+	- [ ] `for` statement
+	- [ ] `do...while` statement
+	- [ ] `while` statement
+	- [ ] `labeled` statement
+	- [ ] `break` statement
+	- [ ] `continue` statement
+	- [ ] `for...in` statement
+	- [ ] `for...of` statement
+- Functions
+	- [ ] Function declaration
+	- [ ] Function expression
+	- [ ] Calling Functions
+	- [ ] Function Scope
+	- [ ] Function Recursion
+	- [ ] Nested Functions
+	- [ ] Closures
+	- [ ] Function Arguments
+	- [ ] Function Parametes
+	- [ ] Rest Parameters
+	- [ ] Arrow Functions
+	- [ ] Predefined Functions
+- Operators
+	- [ ] Assignment operators
+	- [ ] Comparison operators
+	- [ ] Arithmetic operators
+	- [ ] Bitwise operators
+	- [ ] Logical operators
+	- [ ] String operators
+	- [ ] Conditional (ternary) operator
+	- [ ] Comma operator
+	- [ ] Unary operators
+	- [ ] Relational operators
+	- [ ] Grouping operator
+- Types/Classes
+	- Primitive Types
+		- [ ] String
+		- [ ] Number
+		- [ ] Boolean
+		- [ ] undefined
+		- [ ] null
+		- [ ] BigInt
+		- [ ] Symbol
+	- Derived Types
+		- [ ] Object
+		- [ ] Array
+		- [ ] Function
+		- [ ] Regexp
+		- [ ] Error
+	- Other Classes
+		- [ ] Date
+		- [ ] JSON
+		- [ ] Event
+		- [ ] Symbol
+		- [ ] Reflect
+		- [ ] Map / Set
+		- [ ] WeakMap / WeakSet
